@@ -13,7 +13,7 @@ local ClaimReward = ReplicatedStorage
 
 
 local startId = 1
-local endId = 1000 
+local endId = 1000000 
 
 print("Iniciando a coleta de recompensas...")
 
